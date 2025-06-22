@@ -9,7 +9,7 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
 import style
 
-class HealthyDietApp(QtWidgets.QMainWindow):
+class DietTrackApp(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
         uic.loadUi("dietTrack.ui", self)
@@ -236,6 +236,6 @@ class HealthyDietApp(QtWidgets.QMainWindow):
 
 if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
-    window = HealthyDietApp()
+    window = DietTrackApp()
     window.show()
     sys.exit(app.exec_())
