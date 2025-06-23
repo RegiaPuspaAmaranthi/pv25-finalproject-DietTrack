@@ -5,8 +5,6 @@ from PyQt5.QtGui import QFont
 import sys
 import sqlite3
 import csv
-from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
-from matplotlib.figure import Figure
 import style
 
 class DietTrackApp(QtWidgets.QMainWindow):
