@@ -61,6 +61,16 @@
   </tr>
   <tr>
     <td align="center">
+      <img src="screenshots/Screenshot(15).png" width="200"/><br>
+      <b>Cari Data Riwayat Konsumsi</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Screenshot(16).png" width="200"/><br>
+      <b>Filter Data Riwayat Konsumsi</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="screenshots/Screenshot(13).png" width="200"/><br>
       <b>Tentang Aplikasi</b>
     </td>
